@@ -5,5 +5,5 @@
 ```cd build```\
 ```cmake ..```\
 ```make```\
-```./main ../images/*.jpg```\
+```./main ../images/*.jpg```
 
